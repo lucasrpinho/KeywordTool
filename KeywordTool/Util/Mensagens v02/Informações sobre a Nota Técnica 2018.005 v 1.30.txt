@@ -1,0 +1,165 @@
+De:	Thomson Reuters <TR@news.sl.thomsonreuters.info>
+Enviado em:	segunda-feira, 6 de maio de 2019 15:04
+Para:	Jorge João da Silva Brasil 
+Assunto:	Informações sobre a Nota Técnica 2018.005 v 1.30
+
+Para visualizar este e-mail no seu browser, acesse aqui. 
+ 
+
+ 
+
+
+ 
+
+
+Informações sobre a Nota Técnica 2018.005 v 1.30
+
+Com base nas informações abaixo, recomendamos aos 
+nossos clientes que em 07/05/2018 passem a integrar 
+NF-e e NFC-e utilizando a versaoLayoutDFE “4.03”, 
+pois nesta data entrarão em vigor as seguintes 
+alterações de layout em Produção:
+
+- Novo campo “vICMSSubstituto” no Grupo Tributação 
+do ICMS= 60;
+
+- Novos campos “pST” e “vICMSSubstituto”, e subgrupo 
+referente ao ICMS efetivo no Grupo de Repasse do 
+ICMS ST; 
+
+- Novo campo “vICMSSubstituto” no Grupo CRT=1 
+(CSON 500);
+
+- Novos campos no grupo de Identificação do Local de 
+Retirada e respectivas regras de validação; 
+
+- Novos campos no grupo de Identificação do Local de 
+Entrega e respectivas regras de validação; 
+
+- Atualização do grupo de Detalhamento Específico de 
+Medicamento e de matérias primas farmacêuticas e 
+criação do campo “xMotivoIsencao”; 
+
+- Alteração da estrutura de retorno de emissão para 
+inclusão de código e mensagem de interesse da SEFAZ 
+ao contribuinte; 
+
+- Implementação da identificação do Responsável 
+Técnico (sem geração do hashCSRT) para as UF: AM, 
+MS, PE, PR, SC e TO. Para as demais, a data foi 
+adiada e a implementação ficará a critério de cada 
+estado.  
+
+Configurações necessárias no Portal DFE:
+
+- Validar a opção configurada no parâmetro “Considerar 
+VersaoLayoutDFE” no Cadastro das Empresas. 
+Caminho da tela: Administração do Sistema > 
+Empresas > ícone “Editar” > Cadastrar Empresa, 
+Acordeom: NF-e > NF-e Parâmetros Gerais. 
+
+- Validar as opções configuradas nos parâmetros de 
+Responsável Técnico no Cadastro do Grupo de 
+Empresas, habilitando a geração das informações nos 
+arquivos de NF-e/NFC-e conforme exigência da SEFAZ 
+de cada UF. 
+Caminho da tela: Administração do Sistema > Grupos 
+de Empresas > ícone “Editar” > Dados do Grupo, 
+Acordeom: Responsável Técnico.   
+
+Dados do Responsável Técnico no XML 
+
+A partir da versão 3.68.0 para os documentos que 
+forem integrados no DFE utilizando o campo 
+"versaoLayoutDFE = 4.03” no arquivo de integração, o 
+Mastersaf DFE fará a inclusão automática deste grupo 
+de informações nos XML de envio das notas antes de 
+transmiti-las à SEFAZ. 
+
+Este grupo será gerado nos arquivos somente para os 
+módulos e estados habilitados através dos parâmetros 
+que serão disponibilizados na tela de cadastro do 
+Grupo de Empresas no DFE, acordeom “Responsável 
+Técnico”. 
+
+Para as demais integrações (XML / Integração direto no 
+webservice / Conectores), será necessário realizar um 
+ajuste na tela Cadastrar Empresa > acordeom NFE > 
+NF-e Parâmetros gerais, informando no campo 
+“versaoLayoutDFE” a versão a ser utilizada.    
+
+Dados de “Local de Entrega” e “Local de Retirada” 
+no DANFE 
+
+Na versão 3.68.2 do DFE foi disponibilizada no 
+Cadastro da empresa, a opção de parametrizar o 
+destaque destes dados no quadro de “Informações 
+Complementares” do DANFE. 
+
+Na versão 3.69.1 a ser publicada no dia 21/05/2019, 
+será disponibilizado um novo formato de impressão de 
+DANFE no DFE em que será possível parametrizar a 
+geração destes novos quadros. 
+
+*Os clientes da modalidade “on premise” que utilizam 
+DANFE customizado, caso desejem utilizar este novo 
+modelo precisarão obter os novos arquivos publicados 
+nesta versão e ajusta-los conforme sua necessidade. 
+As orientações para realizar este ajuste serão 
+disponibilizadas em manual. 
+
+ Esta NT destaca a possibilidade da exibição destes 
+dados em quadros específicos no DANFE, portanto, por 
+se tratar de uma forma opcional de destaque da 
+informação, entende-se que os contribuintes que não 
+utilizarem estes novos quadros no DANFE não serão 
+penalizados. 
+
+Para esclarecer eventuais dúvidas, entre em contato 
+conosco através dos canais de atendimento e 
+relacionamento já conhecidos. 
+
+Atenciosamente,
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+t
+h
+o
+m
+s
+o
+n
+r
+e
+u
+t
+e
+r
+s
+.
+c
+o
+m
+.
+b
+r 
+
+ 
+Clique para conhecer nossa PolÌtica de Privacidade.
+Para cancelar sua inscrição acesse aqui
+ 

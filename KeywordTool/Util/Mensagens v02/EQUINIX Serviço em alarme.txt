@@ -1,0 +1,33 @@
+De:	equinixcsm@service-now.com
+Enviado em:	quarta-feira, 8 de maio de 2019 09:33
+Para:	Jorge João da Silva Brasil 
+Assunto:	[EQUINIX] Serviço em alarme
+
+ 
+EVENTOS
+ 
+ATENÇÃO  
+Esta é uma mensagem automática, por favor não responda.
+ 
+Prezado Cliente, 
+Nosso sistema de monitoramento identificou um alarme no equipamento: RJORJOCPL116587 . 
+O alarme foi disparado para o item: LINK - INT. ge-0/0/19 DO SWRK01-1-DP39.RJ2 COM BAIXO 
+TRAFEGO - TIM. 
+Nossa equipe de suporte já foi notificada e a análise será iniciada em instantes. 
+O acompanhamento poderá ser feito através do portal do cliente ou pela nossa central de 
+atendimento. 
+ 
+ 
+ 
+ 
+Equinix
+RJ e SP: (21 ou 11) 3958-2564 | Bilíngue: (21 ou 11) 3958-2596
+http://www.equinix.com.br/
+ 
+ 
+E Q U I N I X   |   www.equinix.com
+Follow us on:     Facebook     Twitter     LinkedIn
+If you no longer wish to receive these emails,  click here
+© 2015 Equinix, Inc. All rights reserved. | Legal |  Privacy
+ 
+Ref:MSG0659065_5jr7zJSRNJv97iGm6GTL

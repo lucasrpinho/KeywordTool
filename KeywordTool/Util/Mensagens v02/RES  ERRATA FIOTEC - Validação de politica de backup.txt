@@ -1,0 +1,942 @@
+De:	Clara Mattos <cmattos@equinix.com>
+Enviado em:	quinta-feira, 9 de maio de 2019 10:43
+Para:	Jorge João da Silva Brasil 
+Cc:	backupdedicado
+Assunto:	RES: [ ERRATA] FIOTEC - Validação de politica de backup
+
+Prioridade:	Alta
+
+Jorge João da Silva Brasil bom dia,
+ 
+Temos algum feedback ?
+ 
+É de extrema importância que seja verificado para que possamos  alinhar as expectativas. 
+ 
+Fico no aguardo!
+ 
+ 
+Aten
+ciosa
+ment
+e, 
+ 
+Clar
+a 
+Matt
+os  
+Hosti
+ng 
+Oper
+ation
+s 
+Asso
+ciate 
+|  Hos
+ting 
+Oper
+ation
+s
+ 
+EQUI
+NIX | 
+Estra
+da 
+Adhe
+mar 
+Bebia
+no 
+(Estr
+ada 
+Velha 
+da 
+Pavu
+na), 1
+380 - 
+Del 
+Castil
+ho, 
+Rio 
+de 
+Janei
+ro/RJ 
+- 
+CEP: 
+2105
+1-
+070, 
+Brazil
+  
+E cm
+attos
+@eq
+uinix.
+com |
+ T +5
+5 21 
+3958-
+2557/ 
+R.: 
+4255
+7  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+This 
+email 
+is sent 
+on 
+behalf 
+of 
+Equinix
+, Inc. 
+or one 
+of its 
+group 
+compa
+nies in 
+the 
+territor
+y from 
+where 
+this 
+email 
+has 
+been 
+sent. 
+The 
+email 
+and 
+any 
+files 
+transm
+itted 
+with it 
+are 
+confid
+ential 
+and 
+solely 
+for the 
+use of 
+the 
+intend
+ed 
+recipie
+nt. If 
+you 
+have 
+receive
+d this 
+email 
+in 
+error 
+please 
+delete 
+this 
+email 
+immed
+iately 
+and 
+notify 
+the 
+sender
+.
+ 
+ 
+De: Clara Mattos  
+Enviada em: sexta-feira, 3 de maio de 2019 17:42 
+Para: Alexandre Alves da Silva <alexandre@fiotec.fiocruz.br>; Alex Augusto de Barros 
+<alex@fiotec.fiocruz.br>; Evandro Maroni Gonçalves <evandrogoncalves@fiotec.fiocruz.br>; 
+Ricardo Chagas Speroto <ricardosperoto@fiotec.fiocruz.br> 
+Cc: backupdedicado <backupdedicado@equinix.com> 
+Assunto: RES: [ ERRATA] FIOTEC - Validação de politica de backup 
+Prioridade: Alta
+ 
+Alexandre boa tarde, 
+ 
+Temos algum feedback ?
+ 
+É de extrema importância que seja verificado para que possamos  alinhar as expectativas. 
+ 
+Fico no aguardo!
+ 
+ 
+Aten
+ciosa
+ment
+e, 
+ 
+Clar
+a 
+Matt
+os  
+Hosti
+ng 
+Oper
+ation
+s 
+Asso
+ciate 
+|  Hos
+ting 
+Oper
+ation
+s
+ 
+EQUI
+NIX | 
+Estra
+da 
+Adhe
+mar 
+Bebia
+no 
+(Estr
+ada 
+Velha 
+da 
+Pavu
+na), 1
+380 - 
+Del 
+Castil
+ho, 
+Rio 
+de 
+Janei
+ro/RJ 
+- 
+CEP: 
+2105
+1-
+070, 
+Brazil
+  
+E cm
+attos
+@eq
+uinix.
+com |
+ T +5
+5 21 
+3958-
+2557/ 
+R.: 
+4255
+7  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+This 
+email 
+is sent 
+on 
+behalf 
+of 
+Equinix
+, Inc. 
+or one 
+of its 
+group 
+compa
+nies in 
+the 
+territor
+y from 
+where 
+this 
+email 
+has 
+been 
+sent. 
+The 
+email 
+and 
+any 
+files 
+transm
+itted 
+with it 
+are 
+confid
+ential 
+and 
+solely 
+for the 
+use of 
+the 
+intend
+ed 
+recipie
+nt. If 
+you 
+have 
+receive
+d this 
+email 
+in 
+error 
+please 
+delete 
+this 
+email 
+immed
+iately 
+and 
+notify 
+the 
+sender
+.
+ 
+ 
+De: Clara Mattos <cmattos@equinix.com>  
+Enviada em: quinta-feira, 18 de abril de 2019 16:25 
+Para: Alexandre Alves da Silva <alexandre@fiotec.fiocruz.br>; Alex Augusto de Barros 
+<alex@fiotec.fiocruz.br>; Evandro Maroni Gonçalves <evandrogoncalves@fiotec.fiocruz.br>; 
+Ricardo Chagas Speroto <ricardosperoto@fiotec.fiocruz.br> 
+Cc: backupdedicado <backupdedicado@equinix.com> 
+Assunto: RES: [ ERRATA] FIOTEC - Validação de politica de backup 
+Prioridade: Alta
+ 
+Alexandre boa tarde, 
+ 
+Temos algum feedback ?
+ 
+É de extrema importância que seja verificado para que possamos  alinhar as expectativas. 
+ 
+Fico no aguardo!
+ 
+Aten
+ciosa
+ment
+e, 
+ 
+Clar
+a 
+Matt
+os  
+Hosti
+ng 
+Oper
+ation
+s 
+Asso
+ciate 
+|  Hos
+ting 
+Oper
+ation
+s
+ 
+EQUI
+NIX | 
+Estra
+da 
+Adhe
+mar 
+Bebia
+no 
+(Estr
+ada 
+Velha 
+da 
+Pavu
+na), 1
+380 - 
+Del 
+Castil
+ho, 
+Rio 
+de 
+Janei
+ro/RJ 
+- 
+CEP: 
+2105
+1-
+070, 
+Brazil
+  
+E cm
+attos
+@eq
+uinix.
+com |
+ T +5
+5 21 
+3958-
+2557/ 
+R.: 
+4255
+7  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+This 
+email 
+is sent 
+on 
+behalf 
+of 
+Equinix
+, Inc. 
+or one 
+of its 
+group 
+compa
+nies in 
+the 
+territor
+y from 
+where 
+this 
+email 
+has 
+been 
+sent. 
+The 
+email 
+and 
+any 
+files 
+transm
+itted 
+with it 
+are 
+confid
+ential 
+and 
+solely 
+for the 
+use of 
+the 
+intend
+ed 
+recipie
+nt. If 
+you 
+have 
+receive
+d this 
+email 
+in 
+error 
+please 
+delete 
+this 
+email 
+immed
+iately 
+and 
+notify 
+the 
+sender
+.
+ 
+ 
+De: Clara Mattos  
+Enviada em: terça-feira, 16 de abril de 2019 14:49 
+Para: Alexandre Alves da Silva <alexandre@fiotec.fiocruz.br>; Alex Augusto de Barros 
+<alex@fiotec.fiocruz.br>; Evandro Maroni Gonçalves <evandrogoncalves@fiotec.fiocruz.br>; 
+Ricardo Chagas Speroto <ricardosperoto@fiotec.fiocruz.br> 
+Cc: backupdedicado <backupdedicado@equinix.com> 
+Assunto: RES: [ ERRATA] FIOTEC - Validação de politica de backup
+ 
+Alexandre boa tarde, 
+ 
+O servidor “SAPPRD-AD01” possui agente File system instalado, dessa forma, não faz backup via 
+Image Level. 
+ 
+Sendo assim, temos a seguinte política de retenção:
+ 
+Diário (em disco): 30 dias  
+Semanal (em fita): 30 dias 
+Mensal (em fita): 365 dias 
+ 
+Podemos seguir com essas configurações, ou deseja alterar algo? 
+ 
+Fico no aguardo.
+ 
+Aten
+ciosa
+ment
+e, 
+ 
+Clar
+a 
+Matt
+os  
+Hosti
+ng 
+Oper
+ation
+s 
+Asso
+ciate 
+|  Hos
+ting 
+Oper
+ation
+s
+ 
+EQUI
+NIX | 
+Estra
+da 
+Adhe
+mar 
+Bebia
+no 
+(Estr
+ada 
+Velha 
+da 
+Pavu
+na), 1
+380 - 
+Del 
+Castil
+ho, 
+Rio 
+de 
+Janei
+ro/RJ 
+- 
+CEP: 
+2105
+1-
+070, 
+Brazil
+  
+E cm
+attos
+@eq
+uinix.
+com |
+ T +5
+5 21 
+3958-
+2557/ 
+R.: 
+4255
+7  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+This 
+email 
+is sent 
+on 
+behalf 
+of 
+Equinix
+, Inc. 
+or one 
+of its 
+group 
+compa
+nies in 
+the 
+territor
+y from 
+where 
+this 
+email 
+has 
+been 
+sent. 
+The 
+email 
+and 
+any 
+files 
+transm
+itted 
+with it 
+are 
+confid
+ential 
+and 
+solely 
+for the 
+use of 
+the 
+intend
+ed 
+recipie
+nt. If 
+you 
+have 
+receive
+d this 
+email 
+in 
+error 
+please 
+delete 
+this 
+email 
+immed
+iately 
+and 
+notify 
+the 
+sender
+.
+ 
+ 
+De: Alexandre Alves da Silva <alexandre@fiotec.fiocruz.br>  
+Enviada em: terça-feira, 16 de abril de 2019 12:40 
+Para: Clara Mattos <cmattos@equinix.com>; Alex Augusto de Barros <alex@fiotec.fiocruz.br>; 
+Evandro Maroni Gonçalves <evandrogoncalves@fiotec.fiocruz.br>; Ricardo Chagas Speroto 
+<ricardosperoto@fiotec.fiocruz.br> 
+Cc: backupdedicado <backupdedicado@equinix.com> 
+Assunto: [EXTERNAL] RES: [ ERRATA] FIOTEC - Validação de politica de backup
+ 
+Clara, boa tarde.
+ 
+                Aparentemente tudo está correto, mas como o  Servidor SAPPRD-AD01 é um servidor 
+virtual dentro do ambiente de virtualização da Equinix, senti falta de ter pelo menos um backup 
+mensal desta VM.
+ 
+Atenciosamente,
+ 
+ 
+    
+fiotec.fiocr
+uz.br
+Alexandre Silva 
+Analista  Tecnologia da Informação 
+. 
+Avenida Brasil, 4036 - Rio de Janeiro 
+Telefone: (21)  2209-2600 - Ramal: 2617
+ 
+ 
+De: Clara Mattos <cmattos@equinix.com>  
+Enviada em: terça-feira, 16 de abril de 2019 11:59 
+Para: Alex Augusto de Barros <alex@fiotec.fiocruz.br>; Alexandre Alves da Silva 
+<alexandre@fiotec.fiocruz.br>; Evandro Maroni Gonçalves <evandrogoncalves@fiotec.fiocruz.br>; 
+liliansouza@fiotec.fiocruz.br; Marcelo Mello Siqueira <Marcelo@fiotec.fiocruz.br>; Ricardo Chagas 
+Speroto <ricardosperoto@fiotec.fiocruz.br>; Rodrigo Medeiros Martins 
+<rodrigomartins@fiotec.fiocruz.br> 
+Cc: backupdedicado <backupdedicado@equinix.com> 
+Assunto: RES: [ ERRATA] FIOTEC - Validação de politica de backup
+ 
+Prezados bom dia, 
+ 
+Temos algum feedback referente a essa solicitação?
+ 
+É de extrema importância que seja verificado para que possamos  alinhar as expectativas. 
+ 
+Fico no aguardo!
+ 
+Aten
+ciosa
+ment
+e, 
+ 
+Clar
+a 
+Matt
+os  
+Hosti
+ng 
+Oper
+ation
+s 
+Asso
+ciate 
+|  Hos
+ting 
+Oper
+ation
+s
+ 
+EQUI
+NIX | 
+Estra
+da 
+Adhe
+mar 
+Bebia
+no 
+(Estr
+ada 
+Velha 
+da 
+Pavu
+na), 1
+380 - 
+Del 
+Castil
+ho, 
+Rio 
+de 
+Janei
+ro/RJ 
+- 
+CEP: 
+2105
+1-
+070, 
+Brazil
+  
+E cm
+attos
+@eq
+uinix.
+com |
+ T +5
+5 21 
+3958-
+2557/ 
+R.: 
+4255
+7  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+This 
+email 
+is sent 
+on 
+behalf 
+of 
+Equinix
+, Inc. 
+or one 
+of its 
+group 
+compa
+nies in 
+the 
+territor
+y from 
+where 
+this 
+email 
+has 
+been 
+sent. 
+The 
+email 
+and 
+any 
+files 
+transm
+itted 
+with it 
+are 
+confid
+ential 
+and 
+solely 
+for the 
+use of 
+the 
+intend
+ed 
+recipie
+nt. If 
+you 
+have 
+receive
+d this 
+email 
+in 
+error 
+please 
+delete 
+this 
+email 
+immed
+iately 
+and 
+notify 
+the 
+sender
+.
+ 
+ 
+De: Clara Mattos <cmattos@equinix.com>  
+Enviada em: quarta-feira, 10 de abril de 2019 16:47 
+Para: alex@fiotec.fiocruz.br; alexandre@fiotec.fiocruz.br; evandrogoncalves@fiotec.fiocruz.br; 
+liliansouza@fiotec.fiocruz.br; marcelo@fiotec.fiocruz.br; ricardosperoto@fiotec.fiocruz.br; 
+rodrigomartins@fiotec.fiocruz.br 
+Cc: backupdedicado <backupdedicado@equinix.com> 
+Assunto: [ ERRATA] FIOTEC - Validação de politica de backup
+ 
+Prezados boa tarde, 
+ 
+A equipe de Backup Dedicado realizou uma atividade proativa para a validação da política de 
+backup do seu ambiente.
+ 
+Poderia validar por gentileza a analise em anexo ? 
+ 
+Caso deseja realizar alguma alteração, por favor nos informar através do 1-188338040580 em 
+nosso Service Now.
+ 
+ 
+Aten
+ciosa
+ment
+e, 
+ 
+Clar
+a 
+Matt
+os  
+Hosti
+ng 
+Oper
+ation
+s 
+Asso
+ciate 
+|  Hos
+ting 
+Oper
+ation
+s
+ 
+EQUI
+NIX | 
+Estra
+da 
+Adhe
+mar 
+Bebia
+no 
+(Estr
+ada 
+Velha 
+da 
+Pavu
+na), 1
+380 - 
+Del 
+Castil
+ho, 
+Rio 
+de 
+Janei
+ro/RJ 
+- 
+CEP: 
+2105
+1-
+070, 
+Brazil
+  
+E cm
+attos
+@eq
+uinix.
+com |
+ T +5
+5 21 
+3958-
+2557/ 
+R.: 
+4255
+7  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+This 
+email 
+is sent 
+on 
+behalf 
+of 
+Equinix
+, Inc. 
+or one 
+of its 
+group 
+compa
+nies in 
+the 
+territor
+y from 
+where 
+this 
+email 
+has 
+been 
+sent. 
+The 
+email 
+and 
+any 
+files 
+transm
+itted 
+with it 
+are 
+confid
+ential 
+and 
+solely 
+for the 
+use of 
+the 
+intend
+ed 
+recipie
+nt. If 
+you 
+have 
+receive
+d this 
+email 
+in 
+error 
+please 
+delete 
+this 
+email 
+immed
+iately 
+and 
+notify 
+the 
+sender
+.
+ 

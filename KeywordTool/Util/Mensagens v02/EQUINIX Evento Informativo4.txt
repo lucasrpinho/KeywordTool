@@ -1,0 +1,29 @@
+De:	equinixcsm@service-now.com
+Enviado em:	quinta-feira, 2 de maio de 2019 21:17
+Para:	Jorge João da Silva Brasil 
+Assunto:	[EQUINIX] Evento Informativo
+
+ 
+EVENTOS
+ 
+ATENÇÃO  
+Esta é uma mensagem automática, por favor não responda.
+ 
+Prezado Jorge João da Silva Brasil ,
+  
+O sistema de monitoramento identificou um alarme no ativo: CLUSTER-SAPPRD 
+O alarme foi disparado para o item: CONSUMO DE CPU ACIMA DE 90% NOS ULTIMOS 5m 
+Status atual: 0 - Active Alert
+  
+ 
+ 
+Equinix
+RJ e SP: (21 ou 11) 3958-2564 | Bilíngue: (21 ou 11) 3958-2596
+http://www.equinix.com.br/
+ 
+E Q U I N I X   |   www.equinix.com
+Follow us on:     Facebook     Twitter     LinkedIn
+If you no longer wish to receive these emails,  click here
+© 2015 Equinix, Inc. All rights reserved. | Legal |  Privacy
+ 
+Ref:MSG0639690_rS7s21946pS6349Rpahk

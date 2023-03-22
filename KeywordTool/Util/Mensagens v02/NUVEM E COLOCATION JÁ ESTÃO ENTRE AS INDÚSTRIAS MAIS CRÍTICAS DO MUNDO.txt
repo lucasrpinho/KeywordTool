@@ -1,0 +1,115 @@
+De:	Comercial RJ Union <comercial.rj@unionsistemas.com.br>
+Enviado em:	quinta-feira, 30 de agosto de 2018 12:08
+Para:	Jorge João da Silva Brasil 
+Assunto:	NUVEM E COLOCATION JÁ ESTÃO ENTRE AS INDÚSTRIAS MAIS CRÍTICAS DO 
+MUNDO
+
+NUVEM E COLOCATION JÁ 
+ESTÃO ENTRE AS INDÚSTRIAS 
+MAIS 
+CRÍTICAS DO MUNDO
+                       Peter Panfil • maio 11, 2018 
+ 
+Poucas indústrias cresceram em importância tão rapidamente quanto Nuvem e Colocation, 
+tanto no mercado de data centers quanto em relação à sociedade como um todo. 
+Para uma pessoa de fora do mercado de data center, a criticidade das indústrias classificadas 
+acima de Nuvem e Colocation parece óbvia. Na indústria Utilities, por exemplo, 
+o downtime pode literalmente paralisar a sociedade e colocar em risco a saúde humana, como 
+vimos em Porto Rico após o furacão Maria. 
+O mesmo acontece com Transportes (aéreo e ferroviário), Telecomunicações, e Produção de 
+Óleo e Gás. Há muito tempo essas verticais estabeleceram-se como indústrias essenciais à 
+nossa economia e estilo de vida. Disrupções nessas indústrias fundamentais criam um efeito 
+cascata, que pode se alastrar pela sociedade e criar sérias consequências. 
+Será possível que, daqui a alguns anos, o mesmo poderá ocorrer com Nuvem e Colocation? 
+Em grande parte, a resposta a essa pergunta é sim. Com velocidade estonteante, os anos 
+recentes viram Nuvem e Colocation emergirem como a coluna vertebral da economia digital. 
+Considere esses dados: 
+Segundo dados de monitoramento da empresa de segurança na nuvem Okta, atualmente as 
+empresas usam uma média de 16 aplicações na nuvem para suportar seu negócio. 
+O instituto de análise de mercado  Gartner projetou em 18% o crescimento de serviços de 
+nuvem para 2017, com o maior crescimento provindo de serviços de infraestrutura de 
+sistemas para nuvem (36,8%) e serviços de aplicações para nuvem (20,1%). Essas 
+estatísticas acompanham o crescimento explosivo em serviços de Nuvem e Colocation 
+ocorrido nos três anos anteriores. 
+Além de sua importância em suportar aplicativos e processos de negócios estabelecidos, 
+Nuvem e Colocation desempenharão um importante papel em tendências transformativas 
+emergentes, como Cidades Inteligentes e a Internet das Coisas. 
+É claro que a “nuvem” é, na realidade, apenas um data center ou uma rede de data centers 
+físicos com um propósito específico. É esse propósito que coloca, em nossa classificação, 
+Nuvem e Colocation acima de outras indústrias dependentes de data centers. 
+O mercado financeiro e o segmento de E-commerce, por exemplo, receberam notas altas em 
+vários critérios usados na classificação, mas nenhum deles obteve um escore geral 
+suficientemente alto para entrar em nossa lista das oito Indústrias Mais Críticas. 
+O downtime nessas indústrias críticas não foi considerado tão impactante quanto disrupções 
+ocorridas em serviços de Nuvem e Colocation. A interdependência entre os serviços de 
+Nuvem e Colocation e os negócios e indivíduos que eles suportam é o que potencializa as 
+possíveis consequências de uma disrupção. Você poderá ler mais sobre como as indústrias 
+foram avaliadas no relatório completo ou nesta postagem de blog. 
+E não é somente a criticidade dos data centers de Nuvem e Colocation que estão crescendo 
+— a influência no mercado de data centers por parte deles também está aumentando. 
+Acima de tudo, Nuvem e Colocation proporcionam aos gestores de data centers uma nova 
+opção que permite rapidamente expandir a capacidade ou acrescentar aplicações. Graças à 
+capacidade de “terceirizar” capacidade de data center para um provedor de Nuvem ou 
+Colocation, muitas empresas agora têm a agilidade necessária para melhor adaptar-se às 
+mudanças em processos de negócios, mercados e tecnologia. 
+Isso criou uma alteração fundamental na economia de como a capacidade do data center é 
+gerenciada. 
+Os provedores de Nuvem e Colocation também deixaram sua marca em tecnologia e 
+arquiteturas de data center. Com um modelo de negócio que exige eficiência de capital para 
+permanecerem competitivos e alta disponibilidade para assegurar lealdade, os provedores de 
+Nuvem e Colocation foram instrumentais no crescimento de tecnologias capazes de atender 
+aos mais exigentes SLAs com o menor custo possível. 
+Eles estiveram entre os primeiros a adotar arquiteturas de reserva de energia que atingem 
+níveis de disponibilidade semelhantes a arquiteturas 2N com menos investimento de capital, 
+maiores taxas de utilização e maior escalabilidade. Eles também ajudaram a promover a 
+adoção de sistemas de economia, que usam ar externo para otimizar a eficiência da remoção 
+de calor e sistemas DCIM que fornecem visibilidade da localização e utilização de ativos.
+ 
+ 
+Peter Panfil
+Meu nome é Peter Panfil e eu sou o Vice-presidente de Energia Global da Vertiv. Lidero o time 
+de vendas de energia global da área de negócio Liebert AC Power da Vertiv. Dedico-me a 
+aplicar as mais recentes tecnologias de energia e controle a topologias emergentes provadas 
+pela indústria, e a fornecer os sistemas de maior disponibilidade e eficiência para aplicações 
+críticas de negócios. Iniciei minha carreira na Liebert em 1994 e ocupei várias posições 
+gerenciais, incluindo VP de Engenharia e VP/GG de Energia AC antes de me tornar VP de 
+Energia Global da Área de Negócios Energia AC. Frequentemente, faço apresentações em 
+feiras e conferências da indústria, e forneço regularmente comentários de especialista aos 
+principais canais de mídia dedicados a TI, instalações e engenharia. 
+Sobre a Vertiv 
+A Vertiv concebe, desenvolve e mantém infraestruturas críticas que protegem 
+aplicativos vitais para data centers, redes de telecomunicação e ambientes 
+comerciais e industriais. Anteriormente denominada como Emerson Network 
+Power, hoje a Vertiv ajuda no crescimento dos mercados informáticos móveis e de 
+armazenamento em nuvem com o nosso portfólio de soluções de gestão de 
+energia, gestão térmica e gestão de infraestruturas, incluindo as marcas Chloride®, 
+Liebert®, NetSure™ e Trellis™. As vendas no ano fiscal de 2016 atingiram os $ 4,4 
+bilhões. Para obter mais informações, visite VertivCo.com.
+Sobre a Union Sistemas 
+Com mais de vinte anos no mercado nacional ofertando soluções de energia para 
+ambientes de missão crítica, como No-Breaks Monofásicos – Trifásicos – Industriais, 
+Chaves de Transferência Automática de Energia, Supressores de Surtos, Chaves 
+Estáticas, Climatização de Precisão (Ar Condicionado) e Soluções para Data Centers, a 
+Union Sistemas credencia-se assim como Distribuidor Platinum, em todo o Brasil, da 
+Vertiv (ex-Emerson Network Power). Para obter mais informações, visite 
+www.unionsistemas.com.br ou acesse nossos contatos.
+ 
+ 
+ 
+ 
+Jorge João da Silva Brasil 
+Gerente de Contas
+ 
+
+ 
+comercial.rj@unionsistemas.com.br 
+ 
+Tel.: (21) 3199-8404 – Cel.: (21) 
+97310--59635
+
+
+
+
+
+ 
+ 

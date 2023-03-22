@@ -1,0 +1,76 @@
+De:	Comunicação MXM <comunicacao@mxm.com.br>
+Enviado em:	terça-feira, 7 de maio de 2019 12:20
+Para:	Jorge João da Silva Brasil 
+Assunto:	Comunicado MXM - Problema de emissão de Nota Fiscal - NT 2018.005
+
+
+Visual
+izar 
+como 
+págin
+a web 
+
+
+ 
+
+Terça-feira, 7 de maio de 2019. 
+ 
+PROBLEMA DE EMISSÃO DE NOTA FISCAL - NT 2018.005
+Informamos que os ambientes de recepção estavam marcados para 
+serem atualizados até a data de hoje, contudo, isto não ocorreu, 
+afetando 03 servidores da SEFAZ: RJ, PE e SP. 
+ 
+O efeito colateral deste acontecimento é a rejeição das notas fiscais 
+momentaneamente para várias unidades federativas. A orientação do 
+suporte do SERPRO é a emissão em contingência e aguardar cada 
+SEFAZ estadual atualizar seus respectivos ambientes. 
+ 
+Alertamos que o ambiente de contingência, até madrugada de hoje, não 
+estava funcionando, o que provoca a possível parada de emissão de 
+notas em alguns dos nossos clientes. 
+ 
+Assim que as SEFAZ estaduais liberarem os seus respectivos 
+ambientes, precisaremos enviar um script para alterar o parâmetro 
+interno. 
+ 
+Em caso de dúvidas, estaremos à disposição.
+Atenciosamente,
+ 
+
+
+
+Envia
+do 
+por 
+MXM 
+Siste
+mas 
+Rio 
+de 
+Janeir
+o . 
+São 
+Paulo 
+. 
+Bahia 
+. Rio 
+Grand
+e do 
+Sul  
+Se 
+desej
+a não 
+receb
+er 
+mais 
+mens
+agens 
+como 
+esta, 
+desca
+dastre
+-se. 
+
+
+
+ 
